@@ -193,8 +193,6 @@ React • FastAPI • PostgreSQL
 
 ---
 
----
-
 # 💼 Core Competencies
 
 - Full Stack Development
@@ -251,9 +249,6 @@ React • FastAPI • PostgreSQL
 - Exploring AI Agents and LLM workflows
 - Improving system design and distributed systems knowledge
 - Contributing to open-source projects
-
----
-
 
 ---
 
