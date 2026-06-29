@@ -8,8 +8,8 @@
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Seelam3653&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Seelam3653?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Seelam3653?style=for-the-badge"/>
 </p>
 
 </div>
@@ -117,33 +117,33 @@
 
 # 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Seelam3653&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seelam3653&layout=compact&theme=github_dark&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=Seelam3653&theme=github-dark&hide_border=true)
 
 ---
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seelam3653&theme=github-dark)](https://github.com/YOUR_USERNAME)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Seelam3653&theme=algolia&no-frame=true&margin-w=10)
 
 ---
 
 # ⚡ Recent GitHub Metrics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seelam3653&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seelam3653&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seelam3653&theme=github_dark"/>
 
 ---
 
@@ -158,13 +158,6 @@
 
 ---
 
-# 🎯 2026 Goals
-
-- ⭐ Contribute to Open Source
-- 🚀 Build Production-grade SaaS Products
-- 🤖 Learn Advanced AI Agents
-- ☁ Master AWS
-- 🏗 Build Scalable Microservices
 
 ---
 
@@ -186,9 +179,9 @@
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manosaiseelam/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:manosai2002@gmail.com)
 
 ---
 
