@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Python+Developer;FastAPI+Developer;React+Developer;AI+Application+Developer;Always+Learning+New+Technologies" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Seelam3653&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
 </p>
