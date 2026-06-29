@@ -16,102 +16,199 @@
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-💻 Full Stack Engineer with 3+ years of experience building scalable enterprise applications.
+I'm a **Full Stack Engineer** with 3+ years of experience designing and building scalable web applications, enterprise platforms, and AI-powered solutions.
 
-🚀 Experienced in backend development, frontend engineering, REST APIs, authentication, AI integrations, and cloud-native applications.
+My primary expertise lies in **Python**, **FastAPI**, **React**, and **PostgreSQL**, with hands-on experience building secure REST APIs, implementing authentication systems, optimizing database performance, and integrating AI capabilities into modern applications.
 
-💡 Passionate about clean architecture, performance optimization, scalable systems, and modern software engineering.
+I enjoy solving complex backend challenges, designing clean APIs, improving application performance, and creating intuitive user experiences. I'm passionate about writing maintainable code, following software engineering best practices, and continuously learning new technologies.
+
+### What I enjoy working on
+
+- 🚀 Building scalable backend services
+- ⚡ High-performance REST APIs
+- 🤖 AI & LLM integrations
+- 🏗 Enterprise applications
+- 🔐 Authentication & Security
+- 📊 Database optimization
+- ☁ Cloud-native applications
+- 🐳 Containerized deployments
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+<table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+<tr>
+<td width="200"><b>Languages</b></td>
+<td>
 
----
+Python • JavaScript • SQL • HTML5 • CSS3
 
-## Frontend
+</td>
+</tr>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+<tr>
+<td><b>Frontend</b></td>
+<td>
 
----
+React • Bootstrap • Responsive UI • REST API Integration
 
-## Backend
+</td>
+</tr>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![.NET](https://img.shields.io/badge/.NET%20API-512BD4?style=for-the-badge&logo=dotnet)
+<tr>
+<td><b>Backend</b></td>
+<td>
 
----
+FastAPI • Django • .NET Web API • RESTful APIs • JWT Authentication • RBAC • OAuth • API Design
 
-## Database
+</td>
+</tr>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
+<tr>
+<td><b>Databases</b></td>
+<td>
 
----
+PostgreSQL • Redis
 
-## DevOps & Tools
+</td>
+</tr>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+<tr>
+<td><b>DevOps</b></td>
+<td>
 
----
+Docker • Git • GitHub • CI/CD • Linux
 
-## AI
+</td>
+</tr>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+<tr>
+<td><b>Cloud</b></td>
+<td>
+
+AWS (Learning) • Utho Object Storage
+
+</td>
+</tr>
+
+<tr>
+<td><b>AI</b></td>
+<td>
+
+OpenAI API • Hugging Face • Prompt Engineering • AI Chat Applications
+
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+VS Code • Postman • Swagger • Pytest
+
+</td>
+</tr>
+
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🏢 Enterprise Workforce Management System
+## 🏢 Enterprise Workforce Management System
 
-- 350+ REST APIs
-- JWT Authentication
-- RBAC
-- Refresh Tokens
-- Attendance
-- Payroll
-- Leave Management
-- Redis Caching
-- PostgreSQL
-- FastAPI
+A comprehensive enterprise platform designed to manage the complete employee and worker lifecycle.
 
----
+### Highlights
 
-### 🤖 AI Weather Voice Assistant
+- Developed **350+ REST APIs** using FastAPI
+- Designed modular backend architecture
+- Implemented JWT Authentication, RBAC, Refresh Tokens & MFA
+- Built recruitment, onboarding, attendance, payroll and leave modules
+- Integrated Aadhaar, PAN, Bank Verification APIs
+- Optimized PostgreSQL queries and Redis caching for faster response times
+- Added API monitoring, logging and health checks
 
-- Voice Assistant
-- Speech-to-Text
-- Text-to-Speech
-- Weather API
-- OpenAI
-- FastAPI
-- React
+**Tech Stack**
+
+FastAPI • React • PostgreSQL • Redis • Docker
 
 ---
 
-### 🧪 AI API Testing Platform
+## 🤖 AI Weather Voice Assistant
 
-- AI Generated Test Cases
-- REST API Testing
-- React
-- .NET Web API
-- OpenAI
+An AI-powered voice assistant capable of understanding spoken queries and providing real-time weather information.
+
+### Features
+
+- Voice-to-Text
+- AI-powered city detection
+- Real-time Weather API
+- Text-to-Speech responses
+- Intelligent conversation flow
+
+**Tech Stack**
+
+Python • FastAPI • React • OpenAI • Hugging Face
+
+---
+
+## 🧪 AI API Testing Platform
+
+A smart testing platform that automatically generates API test cases using AI.
+
+### Features
+
+- AI-generated API test cases
+- REST API validation
+- Request & Response inspection
+- Automated testing workflow
+- Interactive dashboard
+
+**Tech Stack**
+
+React • .NET Web API • OpenAI
+
+---
+
+## 📊 HR Analytics Dashboard
+
+Interactive dashboards for workforce monitoring and business reporting.
+
+### Features
+
+- Employee Analytics
+- Attendance Reports
+- Payroll Insights
+- Department-wise Metrics
+- Exportable Reports
+
+**Tech Stack**
+
+React • FastAPI • PostgreSQL
+
+---
+
+---
+
+# 💼 Core Competencies
+
+- Full Stack Development
+- Backend Engineering
+- REST API Development
+- Enterprise Software
+- Database Design
+- Authentication & Authorization
+- AI Integration
+- Performance Optimization
+- Microservices Architecture
+- Clean Code
+- Software Design Principles
+- Agile Development
 
 ---
 
@@ -147,14 +244,13 @@
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Current Focus
 
-- ☁ AWS
-- Kubernetes
-- CI/CD
-- Microservices
-- System Design
-- Advanced AI Applications
+- Building scalable FastAPI applications
+- Learning AWS & Kubernetes
+- Exploring AI Agents and LLM workflows
+- Improving system design and distributed systems knowledge
+- Contributing to open-source projects
 
 ---
 
@@ -166,14 +262,6 @@
 ⭐ FastAPI Authentication
 
 ⭐ AI Weather Assistant
-
-⭐ HRMS Backend
-
-⭐ API Testing Platform
-
-⭐ React Dashboard
-
-⭐ Docker FastAPI Template
 
 ---
 
